@@ -4,3 +4,4 @@ switching_to_home_directory
 displaying_directory_contents_in_long_format
 listing_hidden_files_in_long_format
 listing_everything_chronologically
+creating_a_script_for_a_temp_file
