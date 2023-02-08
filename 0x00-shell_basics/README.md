@@ -6,3 +6,4 @@ listing_hidden_files_in_long_format
 listing_everything_chronologically
 creating_a_script_for_a_temp_file
 moving_file_between_temp_directories
+removing_file_from_temp_directory
