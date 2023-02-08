@@ -9,3 +9,4 @@ moving_file_between_temp_directories
 removing_file_from_temp_directory
 deleting-hidden-directory
 moving_back_one_directory
+listing_even_hidden_files_in_order
