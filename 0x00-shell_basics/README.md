@@ -10,3 +10,4 @@ removing_file_from_temp_directory
 deleting-hidden-directory
 moving_back_one_directory
 listing_even_hidden_files_in_order
+checking_type_of_file
