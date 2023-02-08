@@ -1,2 +1,3 @@
 printing_working directory
 listing_contents_of_file
+switching_to_home_directory
