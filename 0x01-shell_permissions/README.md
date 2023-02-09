@@ -10,3 +10,4 @@ operation 007
 operation 753
 mirroring permissions
 giving directory-permissions
+giving a directory a mode
