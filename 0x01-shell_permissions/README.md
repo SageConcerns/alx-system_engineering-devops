@@ -5,3 +5,4 @@ changind ownership of file
 creating_empty_file
 giving executive powers
 granting different powers to diffrent categories
+granting executive permission to all
