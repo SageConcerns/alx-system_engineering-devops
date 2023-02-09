@@ -8,3 +8,4 @@ granting different powers to diffrent categories
 granting executive permission to all
 operation 007
 operation 753
+mirroring permissions
