@@ -10,3 +10,5 @@ writing and answer into a file
 listing recent files
 sorting
 listing a pattern
+searching and displaying lines containing a pattern
+searching a displaying lines with patterns and some lines after that.
