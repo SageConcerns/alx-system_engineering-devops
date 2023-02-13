@@ -6,3 +6,4 @@ reading the last ten lines of a file
 reading the first ten lines of a file
 reading a particular line
 creating a file with contents in a single stroke
+writing and answer into a file
