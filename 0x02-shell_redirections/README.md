@@ -12,3 +12,9 @@ sorting
 listing a pattern
 searching and displaying lines containing a pattern
 searching a displaying lines with patterns and some lines after that.
+hidnig lines cotaining a certain phrase
+displaying all line starting with a letter
+replacing characters
+removing the lower and upper case of letters
+reversing an input
+displaying and sorting users
